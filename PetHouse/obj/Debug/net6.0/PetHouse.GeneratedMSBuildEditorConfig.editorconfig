@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PetHouse
+build_property.RootNamespace = PetHouse
+build_property.ProjectDir = C:\Users\LISBETH\source\repos\PetHouse\PetHouse\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\LISBETH\source\repos\PetHouse\PetHouse
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Adoptame/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRhbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Contactanos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdGFub3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Personal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHousecarrito1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VjYXJyaXRvMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHouseCarrito2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VDYXJyaXRvMlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHouseCarrito3/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VDYXJyaXRvM1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHousePetShopAccesorios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VQZXRTaG9wQWNjZXNvcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHousePetShopAlimHumedo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VQZXRTaG9wQWxpbUh1bWVkb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHousePetShopAlimSeco/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VQZXRTaG9wQWxpbVNlY29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/petHousePetShopJuguetes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGV0SG91c2VQZXRTaG9wSnVndWV0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Producto/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/producto_comida_seca/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdG9fY29taWRhX3NlY2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Reservaciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Servicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LISBETH/source/repos/PetHouse/PetHouse/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qtykie04eb

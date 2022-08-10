@@ -1,0 +1,130 @@
+﻿<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PetShop-AlimentoSeco</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/styleAccesorios.css" type="text/css">
+</head>
+  <section class="container-fluid d-flex justify-content-center">
+    <div class="container pt-3 pb-3">
+      <div class="row botones">
+        <div class="col">
+          <a href="@Url.Action("Index","petHousePetShopAlimSeco")"><button id="bRA" class="btn btn-primary text-dark " type="button">Alimento seco
+              para perros</button></a>
+        </div>
+        <div class="col">
+          <a href="@Url.Action("Index","petHousePetShopAlimHumedo")"><button class="btn btn-primary text-light" type="button">Alimento
+              húmedo para perros</button></a>
+        </div>
+        <div class="col text-center">
+          <a href="@Url.Action("Index","petHousePetShopJuguetes")"> <button class="btn btn-primary text-light"
+              type="button">Juguetes</button>
+          </a>
+        </div>
+        <div class="col">
+          <a href="@Url.Action("Index","petHousePetShopAccesorios")"> <button class="btn btn-primary text-light "
+              type="button">Ropa y Accesorios
+            </button> </a>
+        </div>
+      </div>
+      <!--------------------------------------------------PRODUCTOS PRIMERA FILA-------------------------------------------->
+      <div class="container">
+        <div class="row pt-2">
+          <div class="col">
+            <a href="@Url.Action("Index","petHouseCarrito3")" class="">
+              <img src="./imagenes/al1.jpg" alt="" width="140" height="150">
+            </a>
+            <div>
+              
+              <h4 class="text-dark">Brit Care Senior</h4>
+              <h4 class="text-dark">S/86.40</h4>
+              <img src="./imagenes/carro.png" width="80" height="40">
+            </div>
+          </div>
+          <div class="col">
+            <img src="./imagenes/al2.jpg" alt="" width="140" height="150">
+            <h6 class="text-dark">Equilibrio Grain Free puppy raza pequeña
+            </h6>
+            <h6 class="text-dark">S/51.00</h6>
+            <img src="./imagenes/carro.png" width="80" height="40">
+          </div>
+          <div class="col">
+            <img src="./imagenes/al3.jpg" alt="" width="140" height="150">
+            <h6 class="text-dark">Pro Plan Active Mind Raza Pequeña</h6>
+            <h6 class="text-dark">S/109.00</h6>
+            <img src="./imagenes/carro.png" width="80" height="40">
+          </div>
+          <div class="col">
+            <img src="./imagenes/al4.jpg" alt="" width="140" height="150">
+            <h6 class="text-dark">Equilibrio Puppies All Breeds</h6>
+            <h5 class="text-dark">S/66.00</h5>
+            <img src="./imagenes/carro.png" width="80" height="40">
+          </div>
+
+
+          <!--------------------------------------------------PRODUCTOS SEGUNDA FILA-------------------------------------------->
+
+        </div>
+        <div class="container">
+          <div class="row pt-2">
+            <div class="col">
+              <img src="./imagenes/al5.jpg" alt="" width="140" height="150">
+              <h4 class="text-dark">Brit Care Sensitive</h4>
+              <h4 class="text-dark">S/93.00</h4>
+              <img src="./imagenes/carro.png" width="80" height="40">
+            </div>
+            <div class="col">
+              <img src="./imagenes/al6.jpg" alt="" width="140" height="150">
+              <h6 class="text-dark">Brit premium by nature adult medium</h6>
+              <h6 class="text-dark">S/50.40</h6>
+              <img src="./imagenes/carro.png" width="80" height="40">
+            </div>
+            <div class="col">
+              <img src="./imagenes/al7.jpg" alt="" width="140" height="150">
+              <h6 class="text-dark">Pro Plan Active Mind Raza Pequeña</h6>
+              <h6 class="text-dark">S/81.40</h6>
+              <img src="./imagenes/carro.png" width="80" height="40">
+            </div>
+            <div class="col">
+              <img src="./imagenes/al8.jpg" alt="" width="140" height="150">
+              <h6 class="text-dark">Brit Care Grain Free Adult Salmon & Potato</h6>
+              <h6 class="text-dark">S/302.00</h6>
+              <img src="./imagenes/carro.png" width="80" height="40">
+            </div>
+
+            <!--------------------------------------------------MARCAS-------------------------------------------->
+          </div>
+          <div id="marcas" class="container mt-2">
+            <h3 class="text-center">ASOCIADAS CON MARCAS RECONOCIDAS</h3>
+            <div class="row">
+              <div class="col">
+                <img src="./imagenes/log6.png" alt="" width="100" height="60">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log1.jpg" alt="" width="100" height="46">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log2.png" alt="" width="100" height="46">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log3.jpg" alt="" width="120" height="50">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log4.jpg" alt="" width="180" height="70">
+              </div>
+              <div class="col">
+                <img src="./imagenes/log5.png" alt="" width="100" height="80">
+              </div>
+              <div class="col">
+                <img src="./imagenes/log7.png" alt="" width="180" height="50">
+              </div>
+            </div>
+  </section>

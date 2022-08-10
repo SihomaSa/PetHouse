@@ -1,0 +1,43 @@
+.nav-link{
+    color:rgb(1, 195, 195)
+}
+
+.mainxd{
+  background-color: rgb(1, 195, 195);
+  min-height: 90vh;
+}
+.text-inferior{
+  font-size: 10px;
+  font-family: inherit;
+}
+.pethouse{
+
+  display: inline-block;
+}
+.a{
+  display: inline-block;
+  color:rgba(33, 63, 99, 1);
+}
+
+.cont{
+  margin: 0vw 12vw 0vw 12vw;
+}
+hr{
+  margin: 0 auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 500px;
+  border:solid #fdaf05;
+}
+.blanco{
+    min-height: 60vh;
+    width: 650px;
+    background-color: white;
+}
+
+/*===============================PANTALLA GRANDE 1100PXPX=============================*/
+
+
+/*===============================PANTALLA PEQUEÑA 768PX=============================*/
+
+

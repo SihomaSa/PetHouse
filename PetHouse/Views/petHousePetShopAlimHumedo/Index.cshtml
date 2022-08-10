@@ -1,0 +1,111 @@
+﻿<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PetShop-AlimentoHumedo</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="./css/styleAccesorios.css" type="text/css">
+</head>
+
+ <section class="container-fluid">
+    <div class=" container pb-3 pt-3">
+      <div class="row botones">
+        <div class="col">
+          <a href="@Url.Action("Index","petHousePetShopAlimSeco")"><button class="btn btn-primary text-light " type="button">Alimento seco
+              para perros</button></a>
+        </div>
+        <div class="col">
+          <a href="@Url.Action("Index","petHousePetShopAlimHumedo")"><button id="bRA" class="btn btn-primary text-dark" type="button">Alimento
+              húmedo para perros</button></a>
+        </div>
+        <div class="col text-center">
+          <a href="@Url.Action("Index","petHousePetShopJuguetes")"> <button class="btn btn-primary text-light" type="button">Juguetes</button>
+          </a>
+        </div>
+        <div class="col">
+          <a href="@Url.Action("Index","petHousePetShopAccesorios")"> <button class="btn btn-primary text-light " type="button">Ropa y Accesorios
+            </button> </a>
+        </div>
+      </div>
+      <!--------------------------------------PRODUCTOS FILA PRIMERA------------------------------->
+      <div class="container">
+        <div class="row pb-2 pt-3">
+          <div class="col">
+            <img src="./imagenes/hum1.jpg" alt="" width="140" height="150">
+            <h4 class="text-dark">Brit Pate & Meat Lamb</h4>
+            <h4 class="text-dark">S/14.50</h4>
+          </div>
+          <div class="col">
+            <img src="./imagenes/hum2.jpg" alt="" width="140" height="150">
+            <h4 class="text-dark">Canbo Premium Adulto Hipoalergénico</h4>
+            <h4 class="text-dark">S/12.4</h4>
+          </div>
+          <div class="col">
+            <img src="./imagenes/hum3.jpg" alt="" width="140" height="150">
+            <h4 class="text-dark">Brit Pate & Meat Turkey 400gr</h4>
+            <h4 class="text-dark">S/14.50</h4>
+          </div>
+          <div class="col">
+            <img src="./imagenes/hum4.jpg" alt="" width="140" height="150">
+            <h4 class="text-dark">Brit Pate & Meat Salmon 400gr</h4>
+            <h4 class="text-dark">S/14.50</h4>
+          </div>
+          <!--------------------------------------FILA 2 PRODUCTOS------------------------------->
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <img src="./imagenes/hum5.png" alt="" width="140" height="150">
+              <h4 class="text-dark">Brit Pate & Meat Lamb Cambo</h4>
+              <h4 class="text-dark">S/93.00</h4>
+            </div>
+            <div class="col">
+              <img src="./imagenes/hum6.jpg" alt="" width="140" height="150">
+              <h4 class="text-dark">Brit premium by nature adult medium</h4>
+              <h4 class="text-dark">S/14.50</h4>
+            </div>
+            <div class="col">
+              <img src="./imagenes/hum7.jpg" alt="" width="140" height="150">
+              <h4 class="text-dark">Brit Pate & Meat Turkey duck 400gr </h4>
+              <h4 class="text-dark">S/14.50</h4>
+            </div>
+            <div class="col">
+              <img src="./imagenes/hum8.jpg" alt="" width="140" height="150">
+              <h4 class="text-dark">Carnilove Salmon & Turkey for puppies 400g</h4>
+              <h4 class="text-dark">S/16.00</h4>
+            </div>
+          </div>
+        <!--------------------------------------MARCAS------------------------------->
+          <div id="marcas"class="container container pt-3 pb-1">
+            <h3 class="text-center">ASOCIADAS CON MARCAS RECONOCIDAS</h3>
+            <div class="row">
+              <div class="col">
+                <img src="./imagenes/log6.png" alt="" width="100" height="60">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log1.jpg" alt="" width="100" height="46">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log2.png" alt="" width="100" height="46">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log3.jpg" alt="" width="120" height="50">
+
+              </div>
+              <div class="col">
+                <img src="./imagenes/log4.jpg" alt="" width="180" height="70">
+              </div>
+              <div class="col">
+                <img src="./imagenes/log5.png" alt="" width="100" height="80">
+              </div>
+              <div class="col">
+                <img src="./imagenes/log7.png" alt="" width="180" height="50">
+              </div>
+            </div>
+  </section>

@@ -1,0 +1,99 @@
+.enviar {
+  padding-left: 5vw;
+  padding-right: 5vw;
+
+  background-color: white;
+  color: black;
+  border-color: white;
+
+  border-radius: 20px;
+}
+.contactanos {
+  color: rgba(33, 63, 99, 1);
+  font-family: inherit;
+  font-weight: bold;
+}
+.nav-link {
+  color: rgb(1, 195, 195);
+}
+.pethouse {
+  font-size: 40px;
+}
+.mainxd {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(21, 219, 219);
+}
+div#Pago {
+  float: right;
+  width: 450px;
+  height: 500px;
+  background-color: #ffff;
+}
+div#Descripcion {
+  width: 640px;
+  height: 200px;
+  background-color: #ffff;
+}
+.text-inferior {
+  font-size: 10px;
+  font-family: inherit;
+}
+.pethouse {
+  display: inline-block;
+}
+.a {
+  display: inline-block;
+  color: rgba(33, 63, 99, 1);
+}
+
+.cont {
+  margin: 0vw 12vw 0vw 12vw;
+}
+
+.LetraPago {
+  margin-top: 20px;
+  color: black;
+  text-align: center;
+}
+
+.LetraPagoLight {
+  color: rgb(129, 127, 127);
+}
+
+.btn {
+  position: center;
+}
+
+.Letra {
+  margin-top: 30px;
+  color: black;
+  text-align: right;
+}
+
+.LetraDescripcion {
+  margin-top: 5px;
+  color: black;
+  text-align: right;
+}
+
+div.Descripcion img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 30%;
+  border: 2px solid #fff;
+  display: block;
+}
+#ventana2{
+  background-color: white;
+  border-radius: 20px;
+}
+div #ventana2{
+  padding: 30px;
+  
+}
+img{
+  border-radius: 10px;
+}

@@ -1,0 +1,54 @@
+.enviar{
+  
+  padding-left: 5vw;
+  padding-right: 5vw;
+
+  background-color: white;
+  color: black;
+  border-color: white;
+  
+  border-radius: 20px;
+
+}
+.contactanos{
+  color:rgba(33, 63, 99, 1);
+  font-family: inherit;
+  font-weight: bold ;
+}
+.nav-link{
+    color:rgb(1, 195, 195)
+    
+    
+}
+.pethouse{
+  font-size: 40px;
+
+}
+.mainB{
+  background-color: rgb(255, 255, 255);
+}
+.textV{
+  color:rgba(67, 219, 210, 1)
+}
+
+.mainV{
+  background-color: rgb(21, 219, 219);
+}
+.text-inferior{
+  font-size: 10px;
+  font-family: inherit;
+}
+.pethouse{
+
+  display: inline-block;
+  
+}
+.a{
+  display: inline-block;
+  color:rgba(33, 63, 99, 1);
+}
+
+.cont{
+  margin: 0vw 12vw 0vw 12vw;
+  
+}

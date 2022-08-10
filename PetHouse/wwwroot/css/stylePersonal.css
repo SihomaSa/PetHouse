@@ -1,0 +1,78 @@
+.enviar{
+  
+  padding-left: 5vw;
+  padding-right: 5vw;
+
+  background-color: white;
+  color: black;
+  border-color: white;
+  
+  border-radius: 20px;
+
+}
+.contactanos{
+  color:rgba(33, 63, 99, 1);
+  font-family: inherit;
+  font-weight: bold ;
+}
+.nav-link{
+    color:rgb(1, 195, 195)
+    
+    
+}
+.pethouse{
+  font-size: 40px;
+
+}
+.mainxd{
+  background-color: rgb(21, 219, 219);
+
+  
+}
+.text-inferior{
+  font-size: 10px;
+  font-family: inherit;
+}
+.pethouse{
+
+  display: inline-block;
+  
+}
+.a{
+  display: inline-block;
+  color:rgba(33, 63, 99, 1);
+}
+
+.cont{
+  margin: 0vw 12vw 0vw 12vw;
+  
+}
+.contenedor{
+  width:"100vw"; 
+  height:"100vh";
+  display:flex;
+
+  background: url("../imagenes/Vet1.png");
+  
+  
+}
+.texto{
+  color: white;
+  display: block;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 7%;
+  
+  
+}
+.titulo{
+  font-size: 62px;
+}
+.texto2{
+  font-size: 20px;
+}
+
+
+
+
